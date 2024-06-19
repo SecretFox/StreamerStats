@@ -195,7 +195,19 @@ class com.fox.StreamerStats
 		
 		var displayString:String = displayStringTemplate;
 		
-		var index = displayString.toLowerCase().indexOf("%name%")
+		var index = displayString.toLowerCase().indexOf("%first%")
+		if ( index >= 0)
+		{
+			displayString = displayString.slice(0, index) + m_Character.GetFirstName() + displayString.slice(index + 7);
+		}
+		
+		index = displayString.toLowerCase().indexOf("%last%")
+		if ( index >= 0)
+		{
+			displayString = displayString.slice(0, index) + m_Character.GetLastName() + displayString.slice(index + 6);
+		}
+		
+		index = displayString.toLowerCase().indexOf("%name%")
 		if ( index >= 0)
 		{
 			displayString = displayString.slice(0, index) + m_Character.GetName() + displayString.slice(index + 6);
