@@ -13,6 +13,7 @@ Right click to enable/disable background
 
 Use `/option StreamerStats_DisplayString "value"` to customize the box contents.  
 Default is `/option StreamerStats_DisplayString "Name: %name%\\nIP: %ip%\\nPlayed: %played0%"`  
+To add new lines add `\\n`
 
 ## DisplayString Templates  
 `%name%` - 	characters name  
