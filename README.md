@@ -2,7 +2,8 @@
 
 # StreamerStats
 Secret World Legend mod for adding customizeable character info box.  
-![kuva](https://github.com/SecretFox/StreamerStats/assets/25548149/60afea4d-5def-467f-a084-10a7ef16de32)
+![kuva](https://github.com/SecretFox/StreamerStats/assets/25548149/5b7d5629-2967-47b6-824e-d264c8983e0b)
+
 
 
 ### Customizing  
