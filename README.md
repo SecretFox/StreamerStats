@@ -2,6 +2,8 @@
 
 # StreamerStats
 Secret World Legend mod for adding customizeable character info box.  
+![kuva](https://github.com/SecretFox/StreamerStats/assets/25548149/60afea4d-5def-467f-a084-10a7ef16de32)
+
 
 ### Customizing  
 While in GUI-Edit mode:  
