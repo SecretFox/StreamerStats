@@ -16,6 +16,8 @@ Default is `/option StreamerStats_DisplayString "Name: %name%\\nIP: %ip%\\nPlaye
 
 ## DisplayString Templates  
 `%name%` - 	characters name  
+`%first%` - 	characters first name  
+`%last%` - 	characters last name  
 `%ip%` 		characters IP  
 `%maxip%` 	characters highest reached IP  
 `%played0%` hh:mm:ss formatted /played  
