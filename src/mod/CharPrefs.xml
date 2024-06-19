@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<Root>
+	<Value name="StreamerStats" value="true" />
+	<Value name="StreamerStats_DisplayString" value="Name: %name%\nIP: %ip%\nPlayed: %played0%" />
+	<Archive name="StreamerStats_Data" />
+</Root>
